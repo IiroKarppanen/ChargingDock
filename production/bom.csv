@@ -1,0 +1,7 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+CR1,SMB_STM,1,SMBJ5.0A-TR,
+J1,GCT_USB4105-GF-A,1,USB4105-GF-A,
+J2,power_pad_5mm,1,Charging Pad+,
+J3,power_pad_5mm,1,Charging Pad-,
+"J4, J5",PinHeader_1x01_P2.54mm_Vertical,2,Charging Pad+,
+"R1, R2",0603,2,5.1k,
